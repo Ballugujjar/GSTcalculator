@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GSTcalculator</string>
+    <string name="heading">GST calculator</string>
+    <string name="condition1">Calculation to calculate value after GST</string>
+    <string name="condition2">Calculation to calculate value before GST</string>
+    <string name="click1">Calculate</string>
+    <string name="click2">Switch</string>
+    <string name="click3">Switch Back</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="gst">Select GST</string>
+    <string name="INR">INR</string>
+    <string-array name="Percentage">
+        <item>5%</item>
+        <item>12%</item>
+        <item>18%</item>
+        <item>28%</item>
+    </string-array>
+</resources>
